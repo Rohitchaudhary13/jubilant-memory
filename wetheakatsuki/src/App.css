@@ -1,0 +1,13 @@
+.bgImg {
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  z-index: -1;
+}
+
+
+/* font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif; */
